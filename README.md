@@ -26,8 +26,8 @@ advanced_calculator/ ├── main.py # Main calculator logic ├── calcula
 
 # Clone the Repository
 
-git clone https://github.com/Sushree1707/advanced_calculator.git
-cd advanced_calculator
+git clone https://github.com/Sushree1707/advanced_calculator.git &&
+cd advanced_calculator&&
 python main.py
 
 ## 👤 Author
